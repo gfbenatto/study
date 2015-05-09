@@ -1,4 +1,6 @@
 #!/usr/bin/python
 
 x=5
-print(x)
+b=10
+r=x*b
+print(r)
